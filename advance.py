@@ -1,6 +1,6 @@
 import random 
 import string
-random.seed(23)
+
 def pass_gen():
     while True:
         try:
